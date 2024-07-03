@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 🐺
 
-Meu nome é Luiz Alberto Clabonde
+Meu nome é **Luiz Alberto Clabonde**
 
 -Estou me aprimorando na linguagem JavaScript.
 
