@@ -6,7 +6,7 @@ Meu nome é **Luiz Alberto Clabonde**
 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-***Você pode entrar em contato comigo através 📧
+*** Você pode entrar em contato comigo através 📧
 
 luiz.clabonde@escola.pr.gov.br
 
